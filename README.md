@@ -1,3 +1,4 @@
 # video-shop
 
-Project to practice with Laravel.
+Project to practice Laravel 8.
+
